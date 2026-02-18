@@ -1,3 +1,5 @@
+[![Part of the Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code-Repos%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude MVT Workspace
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) workspace for running [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) spyware scans on Android devices connected via ADB.
@@ -61,3 +63,7 @@ MIT
 
 - [MVT](https://github.com/mvt-project/mvt) by Amnesty International Security Lab
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) by Anthropic
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
