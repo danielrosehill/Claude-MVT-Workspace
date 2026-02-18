@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git clone:*)",
+      "Bash(adb devices:*)",
+      "Bash(adb shell:*)",
+      "Bash(mvt-android:*)",
+      "Bash(pip3 install:*)",
+      "Bash(pipx install:*)",
+      "Bash(pipx upgrade:*)",
+      "Bash(python3 --version:*)",
+      "Bash(pip3 --version:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

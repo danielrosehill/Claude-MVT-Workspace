@@ -1,0 +1,14 @@
+# Scan reports contain sensitive device data
+reports/*/
+
+# IOCs are cloned from upstream and shouldn't be committed
+iocs/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
